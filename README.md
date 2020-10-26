@@ -13,4 +13,5 @@ Exercise 09-29-20: Polynomial Expansion for Nonlinear Mapping
 
 Exercise 10-20-20: Overfitting, Underfitting, and Robust Fitting
 
-Assignment 1: implement our own perceptron for multiclass classification
+Assignment 1: Perceptron for Multi-Class Classification
+
