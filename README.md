@@ -15,3 +15,4 @@ Exercise 10-20-20: Overfitting, Underfitting, and Robust Fitting
 
 Assignment 1: Perceptron for Multi-Class Classification
 
+Assignment 2: Ridge Regression
